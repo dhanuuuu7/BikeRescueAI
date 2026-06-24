@@ -1,0 +1,61 @@
+symptom,fault_category
+bike won't start and no sound when I press ignition,Battery/Electrical
+headlight is dim and engine cranks slowly,Battery/Electrical
+electric starter not working,Battery/Electrical
+horn not working and lights are weak,Battery/Electrical
+bike dies after running for a few minutes,Battery/Electrical
+indicators not blinking properly,Battery/Electrical
+engine cuts off when I turn on headlight,Battery/Electrical
+battery drains overnight,Battery/Electrical
+no response when I press start button,Battery/Electrical
+sparks near battery terminal,Battery/Electrical
+bike starts but stops after a few seconds,Fuel System
+engine sputters and hesitates while accelerating,Fuel System
+strong smell of petrol near the engine,Fuel System
+bike is not picking up speed properly,Fuel System
+fuel leaking from below the tank,Fuel System
+engine runs rough and then dies,Fuel System
+black smoke coming from exhaust,Fuel System
+bike not starting even with full tank,Fuel System
+poor mileage suddenly,Fuel System
+carburettor making gurgling sound,Fuel System
+loud knocking noise from engine,Engine Mechanical
+engine is overheating,Engine Mechanical
+oil leaking from engine,Engine Mechanical
+white smoke coming from engine,Engine Mechanical
+engine vibrating too much,Engine Mechanical
+grinding noise when engine is running,Engine Mechanical
+bike loses power on inclines,Engine Mechanical
+engine seizes while riding,Engine Mechanical
+ticking sound from engine at idle,Engine Mechanical
+bike shakes badly at high speed,Engine Mechanical
+bike is pulling to one side while riding,Tyre/Brakes
+flat tyre suddenly while riding,Tyre/Brakes
+brakes are not stopping the bike properly,Tyre/Brakes
+squeaking sound when I apply brakes,Tyre/Brakes
+front wheel wobbling,Tyre/Brakes
+brake lever going all the way in,Tyre/Brakes
+tyre burst on highway,Tyre/Brakes
+rear tyre losing air slowly,Tyre/Brakes
+brakes feel spongy,Tyre/Brakes
+disc brake making grinding noise,Tyre/Brakes
+temperature gauge going to red,Cooling System
+coolant leaking from bike,Cooling System
+engine gets very hot in traffic,Cooling System
+steam coming from engine area,Cooling System
+radiator fan not working,Cooling System
+bike overheats and stops in traffic,Cooling System
+coolant level dropping frequently,Cooling System
+engine temperature warning light on,Cooling System
+hot smell from engine after short ride,Cooling System
+overflow tank filling up quickly,Cooling System
+gears not shifting smoothly,Transmission/Clutch
+clutch slipping while accelerating,Transmission/Clutch
+bike stuck in one gear,Transmission/Clutch
+clutch lever feels very hard to press,Transmission/Clutch
+grinding sound when changing gears,Transmission/Clutch
+gear slipping out on its own,Transmission/Clutch
+clutch not fully disengaging,Transmission/Clutch
+chain making noise and slipping,Transmission/Clutch
+difficulty finding neutral,Transmission/Clutch
+chain fell off sprocket,Transmission/Clutch
