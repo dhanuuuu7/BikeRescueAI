@@ -1,0 +1,11 @@
+name,lat,lon,specialization,experience_years,rating,reviews,available,phone,price_range
+Ravi Kumar Mechanics,17.385,78.4867,"['Battery/Electrical', 'Engine Mechanical']",12,4.8,234,True,9876543210,₹200-500
+SR Two Wheelers,17.39,78.492,"['Fuel System', 'Engine Mechanical']",8,4.5,178,True,9812345678,₹150-400
+Hyderabad Bike Care,17.378,78.48,"['Tyre/Brakes', 'Cooling System']",15,4.9,412,False,9898989898,₹100-350
+Speed Zone Garage,17.395,78.475,"['Transmission/Clutch', 'Engine Mechanical']",6,4.2,89,True,9765432109,₹250-600
+Quick Fix Motors,17.382,78.495,"['Battery/Electrical', 'Tyre/Brakes']",10,4.6,301,True,9654321098,₹200-450
+Reddy Auto Works,17.37,78.49,"['Cooling System', 'Fuel System']",20,4.7,567,True,9543210987,₹300-700
+City Bike Hospital,17.4,78.485,"['Engine Mechanical', 'Transmission/Clutch']",9,4.4,156,False,9432109876,₹200-550
+Sai Service Centre,17.375,78.47,"['Tyre/Brakes', 'Battery/Electrical', 'Fuel System']",14,4.8,389,True,9321098765,₹150-500
+MotoFix Garage,17.388,78.5,"['All']",18,4.6,445,True,9210987654,₹250-800
+Balaji Two Wheelers,17.365,78.482,"['Engine Mechanical', 'Cooling System']",7,4.3,112,True,9109876543,₹200-500
