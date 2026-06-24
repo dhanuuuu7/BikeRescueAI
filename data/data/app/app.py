@@ -67,4 +67,4 @@ with tab1:
     if st.button("🔍 Diagnose", use_container_width=True):
         if symptom:
             fault = model.predict([symptom])[0]
-            confidence =
+            confidence = max(model.predict_proba([symptom])[0]) * 100
